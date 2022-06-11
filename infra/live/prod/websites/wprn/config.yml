@@ -1,0 +1,53 @@
+app:
+  backend:
+    functions:
+      mutations:
+        - createAlert
+        - createContact
+        - createProject
+        - editProject
+        - publishProject
+        - removeProject
+      queries:
+        - findSimilarProjects
+        - getProjectForEdit
+        - listBranchesOverview
+        - listReferents
+        - searchProject
+        - viewProject
+bo:
+  common:
+    env: &bo_common_env
+      name: "R-WPRN"
+  backend:
+    env:
+      <<: *bo_common_env 
+    functions:
+      mutations:
+        - changePassword
+        - deleteAccount
+        - inviteUser
+        - updateProject
+        - upsertBranch
+        - createMailing
+        - forgotPassword
+        - updateMailing
+        - updateUser
+      queries:
+        - getPresignedUploadUrl
+        - getUser
+        - listBranches
+        - listMailings
+        - listUsers
+        - getProject
+        - listAllUsers
+        - listBranchesBase
+        - listProjects
+        - login
+  frontend:
+    env:
+      <<: *bo_common_env
+      fullName:     "World Pandemic Research Network"
+      description:  "Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus."
+      reCaptcha:    "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j"
+      url:          "https://referent.wprn.org"
