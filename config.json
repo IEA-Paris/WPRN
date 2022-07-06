@@ -4,10 +4,10 @@
     "region": "eu-west-2",
     "app_id": "wprn",
     "root": {
-      "cname": "dev.wprn.org"
+      "cname": "wprn.org"
     },
     "referent": {
-      "cname": "referents.dev.wprn.org"
+      "cname": "referents.wprn.org"
     },
     "sentryDSN": "https://933066c491f04f9a8b15141c68c7a0a8@sentry.paris-ias.io/2"
   },
