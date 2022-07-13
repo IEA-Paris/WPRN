@@ -69,6 +69,10 @@
     "i18n": {
       "default": "fr"
     },
+    "count": {
+      "institutions": 16,
+      "referents": 15
+    },
     "font": {
       "family": {
         "title": "Merriweather:100, 300, 400, 500, 700, 900",
