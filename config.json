@@ -1,16 +1,4 @@
 {
-  "tfvars": {
-    "project_name": "yggdrasil",
-    "region": "eu-west-2",
-    "app_id": "wprn",
-    "root": {
-      "cname": "wprn.org"
-    },
-    "referent": {
-      "cname": "referents.wprn.org"
-    },
-    "sentryDSN": "https://933066c491f04f9a8b15141c68c7a0a8@sentry.paris-ias.io/2"
-  },
   "root": {
     "name": "wprn",
     "fullName": "World Pandemic Research Network",
@@ -115,17 +103,13 @@
           "success": "#00E676"
         }
       }
-    },
-    "sentry_dsn": "https://933066c491f04f9a8b15141c68c7a0a8@sentry.paris-ias.io/2",
-    "ackee_domain": "e20368c7-be1f-4f07-9a10-590cc9eb517b"
+    }
   },
   "referent": {
     "name": "R-WPRN",
     "fullName": "World Pandemic Research Network",
     "description": "Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus.",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://referent.wprn.org",
-    "sentry_dsn": "https://933066c491f04f9a8b15141c68c7a0a8@sentry.paris-ias.io/2",
-    "ackee_domain": "e20368c7-be1f-4f07-9a10-590cc9eb517b"
+    "url": "https://referent.wprn.org"
   }
 }
