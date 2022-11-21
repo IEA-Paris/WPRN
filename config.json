@@ -64,7 +64,8 @@
       "theme": true,
       "referents": true,
       "publicAlerts": true,
-      "projectAlerts": true
+      "projectAlerts": true,
+      "teaser": ""
     },
     "i18n": {
       "default": "fr"
