@@ -554,11 +554,7 @@
     { "43": "Tekstuele materialen" },
     { "44": "Thesis" },
     { "45": "Webpagina" },
-    { "46": "Catering" },
-    { "dissemination": "DISSEMINATIE" },
-    { "collaborativeAction": "GEZAMENLIJKE ACTIE" },
-    { "research": "ONDERZOEKSPROJECT" },
-    { "other": "ANDERE" }
+    { "46": "Catering" }
   ],
   "thematics": [
     { "1": "Veroudering, Demografie" },
@@ -623,11 +619,11 @@
     "socialSciencesAndHumanities": "Sociale en menswetenschappen",
     "otherSciences": "Andere wetenschappen"
   },
-  "states": {
-    "0": "Gepland project",
-    "1": "Lopend project",
-    "2": "Voltooid project"
-  },
+  "states": [
+    { "0": "Gepland project" },
+    { "1": "Lopend project" },
+    { "2": "Voltooid project" }
+  ],
   "status": {
     "0": "IN AFWACHTING",
     "1": "GEPUBLICEERD",

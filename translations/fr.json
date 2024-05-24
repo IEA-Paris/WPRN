@@ -623,11 +623,11 @@
     "socialSciencesAndHumanities": "Sciences sociales et humaines",
     "otherSciences": "Autres sciences"
   },
-  "states": {
-    "0": "Projet planifié",
-    "1": "Projet en cours",
-    "2": "Projet achevé"
-  },
+  "states": [
+    { "0": "Projet planifié" },
+    { "1": "Projet en cours" },
+    { "2": "Projet achevé" }
+  ],
   "status": {
     "0": "EN ATTENTE",
     "1": "PUBLIÉ",

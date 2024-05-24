@@ -554,11 +554,7 @@
     { "43": "Materiali testuali" },
     { "44": "Tesi" },
     { "45": "Pagina web" },
-    { "46": "Catering" },
-    { "dissemination": "DIVULGAZIONE" },
-    { "collaborativeAction": "AZIONE COLLABORATIVA" },
-    { "research": "PROGETTO DI RICERCA" },
-    { "other": "ALTRO" }
+    { "46": "Catering" }
   ],
   "thematics": [
     { "1": "Invecchiamento, Demografia" },
@@ -623,11 +619,11 @@
     "socialSciencesAndHumanities": "Scienze sociali e umanistiche",
     "otherSciences": "Altre scienze"
   },
-  "states": {
-    "0": "Progetto pianificato",
-    "1": "Progetto in corso",
-    "2": "Progetto completato"
-  },
+  "states": [
+    { "0": "Progetto pianificato" },
+    { "1": "Progetto in corso" },
+    { "2": "Progetto completato" }
+  ],
   "status": {
     "0": "PENDING",
     "1": "PUBBLICATO",

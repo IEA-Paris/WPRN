@@ -554,11 +554,7 @@
     { "43": "Textuelle Materialien" },
     { "44": "Dissertation" },
     { "45": "Web Page" },
-    { "46": "Verpflegung" },
-    { "dissemination": "VERBREITUNG" },
-    { "collaborativeAction": "KOLLABORATIVES HANDELN" },
-    { "research": "FORSCHUNGSPROJEKT" },
-    { "other": "SONSTIGES" }
+    { "46": "Verpflegung" }
   ],
   "thematics": [
     { "1": "Alterung, Demographie" },
@@ -623,11 +619,11 @@
     "socialSciencesAndHumanities": "Sozial- und Geisteswissenschaften",
     "otherSciences": "Andere Wissenschaften"
   },
-  "states": {
-    "0": "Geplantes Projekt",
-    "1": "Laufendes Projekt",
-    "2": "Abgeschlossenes Projekt"
-  },
+  "states": [
+    { "0": "Geplantes Projekt" },
+    { "1": "Laufendes Projekt" },
+    { "2": "Abgeschlossenes Projekt" }
+  ],
   "status": {
     "0": "WIRD BEARBEITET",
     "1": "VERÖFFENTLICHT",
