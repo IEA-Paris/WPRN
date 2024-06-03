@@ -391,7 +391,8 @@
       "institution": "Institution du contact",
       "institutionHint": "(Université, laboratoire, indépendant...)",
       "email": "Courriel de contact",
-      "title": "Contact"
+      "title": "Contact",
+      "url": "URL de contact"
     },
     "details": {
       "field": "Discipline(s) du projet",

@@ -116,7 +116,6 @@
   "types": [
     {
       "value": 0,
-      "text": "types.0",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -127,7 +126,6 @@
     },
     {
       "value": 1,
-      "text": "types.1",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -138,7 +136,6 @@
     },
     {
       "value": 2,
-      "text": "types.2",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -149,7 +146,6 @@
     },
     {
       "value": 3,
-      "text": "types.3",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -160,7 +156,6 @@
     },
     {
       "value": 4,
-      "text": "types.4",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -171,7 +166,6 @@
     },
     {
       "value": 5,
-      "text": "types.5",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -182,7 +176,6 @@
     },
     {
       "value": 6,
-      "text": "types.6",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -193,7 +186,6 @@
     },
     {
       "value": 44,
-      "text": "types.44",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -204,7 +196,6 @@
     },
     {
       "value": 40,
-      "text": "types.40",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -215,7 +206,6 @@
     },
     {
       "value": 7,
-      "text": "types.7",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": true,
@@ -226,7 +216,6 @@
     },
     {
       "value": 21,
-      "text": "types.21",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": true,
@@ -237,7 +226,6 @@
     },
     {
       "value": 8,
-      "text": "types.8",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": true,
@@ -248,7 +236,6 @@
     },
     {
       "value": 9,
-      "text": "types.9",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": false,
@@ -259,7 +246,6 @@
     },
     {
       "value": 10,
-      "text": "types.10",
       "urlMandatory": false,
       "dateTime": true,
       "timeInterval": false,
@@ -270,7 +256,6 @@
     },
     {
       "value": 37,
-      "text": "types.37",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -281,7 +266,6 @@
     },
     {
       "value": 11,
-      "text": "types.11",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": false,
@@ -292,7 +276,6 @@
     },
     {
       "value": 12,
-      "text": "types.12",
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": false,
@@ -303,7 +286,6 @@
     },
     {
       "value": 13,
-      "text": "types.13",
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": false,
@@ -314,7 +296,6 @@
     },
     {
       "value": 14,
-      "text": "types.14",
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": false,
@@ -325,7 +306,6 @@
     },
     {
       "value": 15,
-      "text": "types.15",
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": true,
@@ -336,7 +316,6 @@
     },
     {
       "value": 16,
-      "text": "types.16",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": false,
@@ -347,7 +326,6 @@
     },
     {
       "value": 17,
-      "text": "types.17",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": false,
@@ -358,7 +336,6 @@
     },
     {
       "value": 18,
-      "text": "types.18",
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": false,
@@ -369,7 +346,6 @@
     },
     {
       "value": 19,
-      "text": "types.19",
       "urlMandatory": true,
       "dateTime": false,
       "timeInterval": false,
@@ -380,7 +356,6 @@
     },
     {
       "value": 21,
-      "text": "types.21",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -391,7 +366,6 @@
     },
     {
       "value": 22,
-      "text": "types.22",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -402,7 +376,6 @@
     },
     {
       "value": 23,
-      "text": "types.23",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -413,7 +386,6 @@
     },
     {
       "value": 24,
-      "text": "types.24",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -424,7 +396,6 @@
     },
     {
       "value": 25,
-      "text": "types.25",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -435,7 +406,6 @@
     },
     {
       "value": 27,
-      "text": "types.27",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -446,7 +416,6 @@
     },
     {
       "value": 28,
-      "text": "types.28",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -457,7 +426,6 @@
     },
     {
       "value": 29,
-      "text": "types.29",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -468,7 +436,6 @@
     },
     {
       "value": 30,
-      "text": "types.30",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -479,7 +446,6 @@
     },
     {
       "value": 31,
-      "text": "types.31",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -490,7 +456,6 @@
     },
     {
       "value": 33,
-      "text": "types.33",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -501,7 +466,6 @@
     },
     {
       "value": 20,
-      "text": "types.20",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -512,7 +476,6 @@
     },
     {
       "value": 26,
-      "text": "types.26",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -523,7 +486,6 @@
     },
     {
       "value": 32,
-      "text": "types.32",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -534,7 +496,6 @@
     },
     {
       "value": 34,
-      "text": "types.34",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -545,7 +506,6 @@
     },
     {
       "value": 35,
-      "text": "types.35",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -556,7 +516,6 @@
     },
     {
       "value": 36,
-      "text": "types.36",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -567,7 +526,6 @@
     },
     {
       "value": 38,
-      "text": "types.38",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -578,7 +536,6 @@
     },
     {
       "value": 39,
-      "text": "types.39",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -589,7 +546,6 @@
     },
     {
       "value": 41,
-      "text": "types.41",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -600,7 +556,6 @@
     },
     {
       "value": 42,
-      "text": "types.42",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -611,7 +566,6 @@
     },
     {
       "value": 43,
-      "text": "types.43",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
@@ -622,7 +576,6 @@
     },
     {
       "value": 45,
-      "text": "types.45",
       "urlMandatory": false,
       "dateTime": false,
       "timeInterval": false,
