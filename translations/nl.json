@@ -619,7 +619,7 @@
     "socialSciencesAndHumanities": "Sociale en menswetenschappen",
     "otherSciences": "Andere wetenschappen"
   },
-  "states": [
+  "state": [
     { "0": "Gepland project" },
     { "1": "Lopend project" },
     { "2": "Voltooid project" }

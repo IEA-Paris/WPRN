@@ -13,6 +13,16 @@
     "titleInLogo": false,
     "titleBackdrop": true,
     "statsImage": "parallax.jpg",
+    "socials": {
+      "github": "https://github.com/WPRN/website",
+      "facebook": "https://www.facebook.com/WPRN.org/",
+      "twitter": "https://twitter.com/WPRN_org",
+      "linkedin": "https://www.linkedin.com/company/wprn-world-pandemic-research-network/",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@thesocioscope",
+      "discord": "",
+      "website": ""
+    },
     "logo": {
       "file": "logo.png",
       "fileSmallLight": "logo_light.svg",

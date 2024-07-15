@@ -624,7 +624,7 @@
     "socialSciencesAndHumanities": "Sciences sociales et humaines",
     "otherSciences": "Autres sciences"
   },
-  "states": [
+  "state": [
     { "0": "Projet planifié" },
     { "1": "Projet en cours" },
     { "2": "Projet achevé" }

@@ -619,7 +619,7 @@
     "socialSciencesAndHumanities": "Sozial- und Geisteswissenschaften",
     "otherSciences": "Andere Wissenschaften"
   },
-  "states": [
+  "state": [
     { "0": "Geplantes Projekt" },
     { "1": "Laufendes Projekt" },
     { "2": "Abgeschlossenes Projekt" }

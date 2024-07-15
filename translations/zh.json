@@ -619,7 +619,7 @@
     "socialSciencesAndHumanities": "社会科学和人文科学",
     "otherSciences": "其他科学"
   },
-  "states": [
+  "state": [
     { "0": "计划中的项目" },
     { "1": "正在进行的项目" },
     { "2": "已完成项目" }

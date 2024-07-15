@@ -622,7 +622,7 @@
     "socialSciencesAndHumanities": "Social Sciences and Humanities",
     "otherSciences": "Other sciences"
   },
-  "states": [
+  "state": [
     { "0": "Planned project" },
     { "1": "Ongoing project" },
     { "2": "Completed project" }
